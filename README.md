@@ -13,20 +13,20 @@ provided.
 Please read thesis.dvi for more details.
 
 
-Prabhu Ramachandran <prabhu AT ae.iitm.ac.in>
+Prabhu Ramachandran prabhu AT ae.iitm.ac.in
 
-(modified by Shahidh K Muhammed <shahidhkmuhammed AT gmail.com>)
+(modified by Shahidh K Muhammed shahidhkmuhammed AT gmail.com)
 
 ## Instructions
 
 - Install TexLive:
-  - Generic: http://www.tug.org/texlive/acquire-netinstall.html
+  - Generic installation [instructions](http://www.tug.org/texlive/acquire-netinstall.html)
   - Ubuntu:  `sudo apt-get install texlive-full`
 - Edit `thesis.tex` file using any text editor.
-  - TeXStudio preferred: http://www.texstudio.org/
+  - TeXStudio preferred: [Download](http://www.texstudio.org/)
   - Install on Ubuntu: `sudo apt-get install texstudio`
 - Compile the tex file to pdf using terminal/command line, execute:
   - `pdflatex thesis.tex`
 - You can use any other LaTeX installation of your choice, but `TexLive Full` install will guarantee that all required packages are installed.
-- In case you are having trouble using LaTeX on your machine, simply create an account at https://www.sharelatex.com/ and create a new project and upload a zip of this project.
-  - zip file available at https://github.com/The-WebOps-Club/iitm-thesis-template/archive/master.zip
+- In case you are having trouble using LaTeX on your machine, simply create an account at [ShareLaTeX](https://www.sharelatex.com/) and create a new project and upload a zip of this project.
+  - zip file available for [download](archive/master.zip)
