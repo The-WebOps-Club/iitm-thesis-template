@@ -1,4 +1,4 @@
-#iitm-thesis-template
+# iitm-thesis-template
 
 A LaTeX class (`iitmdiss.cls`) along with a simple template thesis
 (`thesis.tex`) and synopsis (`synopsis.tex`) are provided here.  These can
@@ -13,9 +13,9 @@ provided.
 Please read thesis.dvi for more details.
 
 
-Prabhu Ramachandran <prabhu@ae.iitm.ac.in>
+Prabhu Ramachandran <prabhu AT ae.iitm.ac.in>
 
-(modified by Shahidh K Muhammed <shahidhkmuhammed@gmail.com>)
+(modified by Shahidh K Muhammed <shahidhkmuhammed AT gmail.com>)
 
 ## Instructions
 
