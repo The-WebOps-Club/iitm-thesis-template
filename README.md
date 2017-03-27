@@ -33,8 +33,9 @@ by Prof. Prabhu Ramachandran prabhu AT ae.iitm.ac.in
 
 ### References
 
-Use [Zotero](https://www.zotero.org/) to manage your references and auto-generate bibliography. 
 <a href="http://www.zotero.org/">
   <img border="0" alt="Get Zotero" title="Get Zotero" 
   src="http://www.zotero.org/images/promote/get_zotero_98x39.gif">
 </a>
+
+Use [Zotero](https://www.zotero.org/) to manage your references and auto-generate bibliography. 
