@@ -29,4 +29,4 @@ Prabhu Ramachandran prabhu AT ae.iitm.ac.in
   - `pdflatex thesis.tex`
 - You can use any other LaTeX installation of your choice, but `TexLive Full` install will guarantee that all required packages are installed.
 - In case you are having trouble using LaTeX on your machine, simply create an account at [ShareLaTeX](https://www.sharelatex.com/) and create a new project and upload a zip of this project.
-  - zip file available for [download](archive/master.zip)
+  - zip file available for [download](https://github.com/The-WebOps-Club/iitm-thesis-template/archive/master.zip)
