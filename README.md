@@ -13,7 +13,7 @@ provided.
 Please read thesis.dvi for more details.
 
 
-Prabhu Ramachandran prabhu AT ae.iitm.ac.in
+by Prof. Prabhu Ramachandran prabhu AT ae.iitm.ac.in
 
 (modified by Shahidh K Muhammed shahidhkmuhammed AT gmail.com)
 
