@@ -30,3 +30,11 @@ by Prof. Prabhu Ramachandran prabhu AT ae.iitm.ac.in
 - You can use any other LaTeX installation of your choice, but `TexLive Full` install will guarantee that all required packages are installed.
 - In case you are having trouble using LaTeX on your machine, simply create an account at [ShareLaTeX](https://www.sharelatex.com/) and create a new project and upload a zip of this project.
   - zip file available for [download](https://github.com/The-WebOps-Club/iitm-thesis-template/archive/master.zip)
+
+### References
+
+Use [Zotero](https://www.zotero.org/) to manage your references and auto-generate bibliography. 
+<a href="http://www.zotero.org/">
+  <img border="0" alt="Get Zotero" title="Get Zotero" 
+  src="http://www.zotero.org/images/promote/get_zotero_98x39.gif">
+</a>
